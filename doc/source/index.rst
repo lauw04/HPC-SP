@@ -6,10 +6,12 @@
 Welcome to Projet HPC's documentation!
 ======================================
 
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   
+   intro
+   modules
 
 
 Indices and tables
