@@ -6,18 +6,16 @@
 Welcome to Projet HPC's documentation!
 ======================================
 
-Bienvenue sur la documentation de notre projet ! Ici vous saurez comment utiliser notre code pour calculer des intégrales de fonctions simplement grâce à Python !
+Bienvenue sur la documentation de notre projet ! Ici vous saurez comment utiliser nos codes qui implémentent des calculs mathématiques de base en Python pour calculer des intégrales de fonctions simplement grâce à Python !
 Enjoy ! :)
-
-.. image:: ../IMAGE/image.png
 
 
 .. toctree::
    :maxdepth: 2
 
-   rect
-   trap
-
+   Integrale/modules
+   Matrice/modules
+   Suite/modules	
 
 Indices and tables
 ==================

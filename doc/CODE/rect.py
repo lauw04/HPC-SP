@@ -1,4 +1,4 @@
-#−∗−coding :  utf−8−∗−
+# _*_ coding: utf-8 _*_
 
 def rectangles(f,a,b,n):
 	"""Voici la fonction qui calcule l'intégrale d'une fonction donnée en paramètre par la méthode des rectangles

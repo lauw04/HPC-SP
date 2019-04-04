@@ -1,6 +1,6 @@
 Méthode des rectangles
 ----------------------
-.. image:: ../IMAGE/rect.png
+.. image:: ../../IMAGE/rect.png
 
 .. automodule:: rect
     :members:
