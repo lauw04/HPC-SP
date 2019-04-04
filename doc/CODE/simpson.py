@@ -2,9 +2,9 @@
 
 
 def simpson(f,a,b,n):
-	"""Voici la fonction qui calcule l'intégrale d'une fonction donnée en paramètre par la méthode des trapèzes
+	"""Voici la fonction qui calcule l'intégrale d'une fonction donnée en paramètre par la méthode de Simpson
   
-	:param function f: la fonction dont on calcule l'intégrale par la méthode des rectangles
+	:param function f: la fonction dont on calcule l'intégrale par la méthode de Simpson
 	:param float a: le début de l'intervalle
 	:param float b: la fin de l'intervalle
 	:param int n: le nombre de pas (i.e. d'intervalles) 
