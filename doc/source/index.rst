@@ -10,7 +10,6 @@ Welcome to Projet HPC's documentation!
 .. toctree::
    :maxdepth: 2
    
-   intro
    modules
 
 
