@@ -1,6 +1,7 @@
 #−∗−coding :  utf−8−∗−
-	
-def trapezes(f,a,b,n):
+
+
+def simpson(f,a,b,n):
 	"""Voici la fonction qui calcule l'intégrale d'une fonction donnée en paramètre par la méthode des trapèzes
   
 	:param function f: la fonction dont on calcule l'intégrale par la méthode des rectangles
@@ -15,5 +16,5 @@ def trapezes(f,a,b,n):
 	for i in range(0 ,n):
 		xi=a+(b-a)*i/float(n)
 		xj=a+(b-a)*(i+1)/float(n)
-		S+= ((f(xi)+f(xj))/2.0)*(xj-xi)
+		S+= (f(xi) + 4*f((xj+xi)/2.0) + f(xj))*(xj-xi)/6
 	return S
