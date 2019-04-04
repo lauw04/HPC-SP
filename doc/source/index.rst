@@ -6,16 +6,21 @@
 Welcome to Projet HPC's documentation!
 ======================================
 
+Bienvenue sur la documentation de notre projet ! Ici vous saurez comment utiliser notre code pour calculer des intégrales de fonctions simplement grâce à Python !
+Enjoy ! :)
+
+.. image:: ../IMAGE/image.png
+
 
 .. toctree::
    :maxdepth: 2
-   
-   modules
+
+   rect
+   trap
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`

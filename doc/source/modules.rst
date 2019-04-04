@@ -1,8 +1,8 @@
-Programme qui calcule l'intégrale d'une fonction
-================================================
-.. image:: ../image.png
+CALCULER DES INTÉGRALES
+=======================
 
 .. toctree::
    :maxdepth: 4
-	
-   tp
+
+   rect
+   trap
