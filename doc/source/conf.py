@@ -54,8 +54,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Projet HPC'
-copyright = '2019, Lauren Picard, Justine Antoine'
-author = 'Lauren Picard, Justine Antoine'
+copyright = '2019, Lauren Picard, Justine Antoine, Matthieu Mancini (un peu)'
+author = 'Lauren Picard, Justine Antoine, Matthieu Mancini'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -91,6 +91,22 @@ todo_include_todos = True
 # a list of builtin themes.
 #
 html_theme = 'classic'
+html_theme_options = {
+  "rightsidebar":"true",
+  "collapsiblesidebar":"true",
+  "bgcolor":"#D8D0C1",
+  "headbgcolor":"#FFFB58",
+  "sidebarbgcolor":"#D8D0C1",
+  "footerbgcolor":"#877B66",
+  "sidebartextcolor":"#4E5166",
+  "textcolor":"#4E5166",
+  
+  "headtextcolor":"#4E5166",
+  "sidebarbtncolor":"#877B66",
+  "codebgcolor":"#000000",
+  "codetextcolor":"#FFFFFF",
+  "relbarbgcolor":"#967D69"
+}
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
