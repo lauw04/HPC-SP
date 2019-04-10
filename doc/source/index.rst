@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Projet HPC's documentation!
-======================================
+Calculs mathématiques en Python !
+================================
 
 Bienvenue sur la documentation de notre projet ! Ici vous saurez comment utiliser nos codes qui implémentent des calculs mathématiques de base en Python pour calculer des intégrales de fonctions simplement grâce à Python !
 Enjoy ! :)
@@ -13,9 +13,9 @@ Enjoy ! :)
 .. toctree::
    :maxdepth: 2
 
-   Integrale/modules
-   Matrice/modules
-   Suite/modules	
+   Integrale/i_modules
+   Matrice/m_modules
+   Suite/s_modules	
 
 Indices and tables
 ==================
