@@ -10,6 +10,10 @@ Des calculs d'intégrales de fonctions selon plusieurs méthodes, des calculs su
 
 Retrouvez l'ensemble de nos documentations [ici](https://hpc-sp.readthedocs.io/en/latest/)
 
+### Page Test Pypi
+
+Pour installer le package Pypi de notre projet, écrire la commande suivante dans le terminal :  pip install -i https://test.pypi.org/simple/ Sphynx-HPC-SP-MJL
+
 ### Pour l'utilisateur
 
 En tant qu'utilisateur nous vous conseillons de lire notre documentation qui est trouvable sur notre page GitHub. Vous y trouverez une description détaillée du fonctionnement de chaque fonction.
