@@ -20,15 +20,15 @@ En tant qu'utilisateur nous vous conseillons de lire notre documentation qui est
 
 ### Pour un développeur
 
-En tant que développeur vous pourrez rajouter des fonctions et des fichiers pythons dans le dossier /CODE de notre répertoire, il faudra alors mettre à jour la documentation pour expliquer votre ajout.
+En tant que développeur vous pourrez rajouter des fonctions et des fichiers Python dans le dossier /CODE de notre répertoire, il faudra alors mettre à jour la documentation pour expliquer votre ajout.
 
 ### Installation
 
 Sur le répertoire GitHub vous trouverez un dossier qui contient l'ensemble de nos codes et de notre documentation.
 
-Il vous suffit d'ouvrier le fichier \doc\build\html\index.html pour accéder à la documentation ! Vous pouvez aussi le faire depuis notre page GitHub.
+Il vous suffit d'ouvrir le fichier \doc\build\html\index.html pour accéder à la documentation ! Vous pouvez aussi le faire depuis notre page GitHub.
 
 ### TODO
 
-Il serait intéressant de rajouter différentes fonctions de résolution de calculs de base. Le but étant de simplifier la tache aux utilisateurs qui découvrent le calcul sur Python.
+Il serait intéressant de rajouter différentes fonctions de résolution de calculs de base. Le but étant de simplifier la tâche aux utilisateurs qui découvrent le calcul sur Python.
 
