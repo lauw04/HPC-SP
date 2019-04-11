@@ -13,6 +13,7 @@ Retrouvez l'ensemble de nos documentations [ici](https://hpc-sp.readthedocs.io/e
 ### Page Test Pypi
 
 Pour installer le package Pypi de notre projet, écrire la commande suivante dans le terminal :  pip install -i https://test.pypi.org/simple/ Sphynx-HPC-SP-MJL
+Le lien du projet Pypi est [ici](https://test.pypi.org/project/Sphynx-HPC-SP-MJL/).
 
 ### Pour l'utilisateur
 
