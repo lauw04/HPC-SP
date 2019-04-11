@@ -8,14 +8,18 @@ Des calculs d'intégrales de fonctions selon plusieurs méthodes, des calculs su
 
 ### Pour l'utilisateur
 
-
+En tant qu'utilisateur nous vous conseillons de lire notre documentation qui est trouvable sur notre page GitHub. Vous y trouverez une description détaillée du fonctionnement de chaque fonction.
 
 ### Pour un développeur
 
-
+En tant que développeur vous pourrez rajouter des fonctions et des fichiers pythons dans le dossier /CODE de notre répertoire, il faudra alors mettre à jour la documentation pour expliquer votre ajout.
 
 ### Installation
 
-Sur le répertoire GitHub vous trouverez un dossier doc
+Sur le répertoire GitHub vous trouverez un dossier qui contient l'ensemble de nos codes et de notre documentation.
+
+Il vous suffit d'ouvrier le fichier \doc\build\html\index.html pour accéder à la documentation ! Vous pouvez aussi le faire depuis notre page GitHub.
 
 ### TODO
+
+Il serait intéressant de rajouter différentes fonctions de résolution de calculs de base. Le but étant de simplifier la tache aux utilisateurs qui découvrent le calcul sur Python.
