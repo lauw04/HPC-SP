@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Projet HPC'
-copyright = '2019, Lauren Picard, Justine Antoine, Matthieu Mancini (un peu)'
+copyright = '2019, Lauren Picard, Justine Antoine, Matthieu Mancini'
 author = 'Lauren Picard, Justine Antoine, Matthieu Mancini'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -100,12 +100,14 @@ html_theme_options = {
   "footerbgcolor":"#877B66",
   "sidebartextcolor":"#4E5166",
   "textcolor":"#4E5166",
-  
   "headtextcolor":"#4E5166",
   "sidebarbtncolor":"#877B66",
   "codebgcolor":"#000000",
   "codetextcolor":"#FFFFFF",
-  "relbarbgcolor":"#967D69"
+  "relbarbgcolor":"#967D69",
+  "linkcolor":"#6492b0",
+  "sidebarlinkcolor":"#6492b0"
+
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
