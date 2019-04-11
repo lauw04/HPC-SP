@@ -6,6 +6,10 @@ Mais parlons un peu de notre exemple utilisé. Nous avons mis en place un ensemb
 
 Des calculs d'intégrales de fonctions selon plusieurs méthodes, des calculs sur les matrices et des calculs sur les suites.
 
+### Page ReadTheDocs
+
+Retrouvez l'ensemble de nos documentations [ici](https://hpc-sp.readthedocs.io/en/latest/)
+
 ### Pour l'utilisateur
 
 En tant qu'utilisateur nous vous conseillons de lire notre documentation qui est trouvable sur notre page GitHub. Vous y trouverez une description détaillée du fonctionnement de chaque fonction.
@@ -23,3 +27,4 @@ Il vous suffit d'ouvrier le fichier \doc\build\html\index.html pour accéder à 
 ### TODO
 
 Il serait intéressant de rajouter différentes fonctions de résolution de calculs de base. Le but étant de simplifier la tache aux utilisateurs qui découvrent le calcul sur Python.
+
