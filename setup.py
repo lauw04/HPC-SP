@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-your-username",
+    name="Sphynx-HPC-SP-MJL",
     version="0.0.1",
-    author="Example Author",
-    author_email="author@example.com",
-    description="A small example package",
+    author="Lauren, Matthieu, Justine",
+    author_email="lauren.picard@insa-lyon.fr",
+    description="Project of sphynx",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/lauw04/Sphynx-HPC-SP-MJL",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
